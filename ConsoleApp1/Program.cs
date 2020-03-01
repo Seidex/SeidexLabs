@@ -1,21 +1,25 @@
 ﻿using System;
+
 namespace ConsoleApp1
 {
     public class Program
     {
-        static public int Example(int a)
-        {   int b = a / 100;
-            int c = a / 10 % 10;
-            int d = a % 10;
-            int e = d * 100 + c * 10 + b;
-            Console.WriteLine("Отримане число " + e.ToString());
-            return e;
+        static public int Example(int a, int b)
+        {
+            int c = a + b;
+            Console.WriteLine(a.ToString() + " + " + b.ToString() + " = " +
+            c.ToString());
+            return c;
         }
         static void Main(string[] args)
-        {   Console.WriteLine("Введiть трьохзначне число");
+        {
+            Console.WriteLine("Введiть перше число");
             string S1 = Console.ReadLine();
             int a = int.Parse(S1);
-            Example(a);
+            Console.WriteLine("Введiть друге число");
+            string S2 = Console.ReadLine();
+            int b = int.Parse(S2);
+            Example(a, b);
             Console.ReadLine();
         }
     }

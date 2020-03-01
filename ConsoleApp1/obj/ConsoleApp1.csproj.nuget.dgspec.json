@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Labs\\lab1.1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Labs\\GitHub\\dotnetexample1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Labs\\lab1.1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Labs\\GitHub\\dotnetexample1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Labs\\lab1.1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Labs\\GitHub\\dotnetexample1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Labs\\lab1.1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\Labs\\GitHub\\dotnetexample1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\olehc\\.nuget\\packages\\",
-        "outputPath": "D:\\Labs\\lab1.1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Labs\\GitHub\\dotnetexample1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olehc\\AppData\\Roaming\\NuGet\\NuGet.Config",
