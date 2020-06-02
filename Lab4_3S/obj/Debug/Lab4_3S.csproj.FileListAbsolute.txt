@@ -1,0 +1,13 @@
+C:\Users\Макс\source\repos\Lab4_3S\Lab4_3S\bin\Debug\Lab4_3S.exe.config
+C:\Users\Макс\source\repos\Lab4_3S\Lab4_3S\bin\Debug\Lab4_3S.exe
+C:\Users\Макс\source\repos\Lab4_3S\Lab4_3S\bin\Debug\Lab4_3S.pdb
+C:\Users\Макс\source\repos\Lab4_3S\Lab4_3S\obj\Debug\Lab4_3S.csprojAssemblyReference.cache
+C:\Users\Макс\source\repos\Lab4_3S\Lab4_3S\obj\Debug\Lab4_3S.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\Lab4_3S\Lab4_3S\obj\Debug\Lab4_3S.exe
+C:\Users\Макс\source\repos\Lab4_3S\Lab4_3S\obj\Debug\Lab4_3S.pdb
+D:\Labs\lab4\Lab4_3S\Lab4_3S\bin\Debug\Lab4_3S.exe.config
+D:\Labs\lab4\Lab4_3S\Lab4_3S\bin\Debug\Lab4_3S.exe
+D:\Labs\lab4\Lab4_3S\Lab4_3S\bin\Debug\Lab4_3S.pdb
+D:\Labs\lab4\Lab4_3S\Lab4_3S\obj\Debug\Lab4_3S.csprojAssemblyReference.cache
+D:\Labs\lab4\Lab4_3S\Lab4_3S\obj\Debug\Lab4_3S.exe
+D:\Labs\lab4\Lab4_3S\Lab4_3S\obj\Debug\Lab4_3S.pdb
