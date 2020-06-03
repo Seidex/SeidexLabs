@@ -1,7 +1,0 @@
-C:\Users\Макс\source\repos\Lab5_2S\Lab5_2S\bin\Debug\Lab5_2S.exe.config
-C:\Users\Макс\source\repos\Lab5_2S\Lab5_2S\bin\Debug\Lab5_2S.exe
-C:\Users\Макс\source\repos\Lab5_2S\Lab5_2S\bin\Debug\Lab5_2S.pdb
-C:\Users\Макс\source\repos\Lab5_2S\Lab5_2S\obj\Debug\Lab5_2S.csprojAssemblyReference.cache
-C:\Users\Макс\source\repos\Lab5_2S\Lab5_2S\obj\Debug\Lab5_2S.csproj.CoreCompileInputs.cache
-C:\Users\Макс\source\repos\Lab5_2S\Lab5_2S\obj\Debug\Lab5_2S.exe
-C:\Users\Макс\source\repos\Lab5_2S\Lab5_2S\obj\Debug\Lab5_2S.pdb
